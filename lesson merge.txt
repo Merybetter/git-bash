@@ -15,5 +15,5 @@
 7. В ветке CheckLists набросать структуру чек листа. git checkout Checklists vim checklist.txt
 8. Запушить структуру на внешний репозиторий git add . it commit -m"check" & git push
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main +
-10. Синхронизировать Внешнюю и Локальную ветки Main git chekout main  git pull
+10. Синхронизировать Внешнюю и Локальную ветки Main git checkout main  git pull
 
